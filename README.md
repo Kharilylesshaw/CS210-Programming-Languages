@@ -1,5 +1,3 @@
-# CS210-Programming-Languages
-Students will develop functional programs that comply with industry regulations and best practices using various programming languages. Special attention will be paid to the importance of developing code that is not only functional, but also secure, efficient, and professional.
 ### Project Summary
 
 The CS-210 Project One, titled "Chada Tech Clock," involved creating two distinct clock displays: one in 12-hour format and another in 24-hour format, adhering to the international standard ISO 8601. The main objective was to enable users to view both clocks simultaneously while allowing them to interact with the program to add hours, minutes, or seconds to the displayed time. This was achieved using object-oriented programming principles in C++, emphasizing modularity, clarity, and efficiency.
